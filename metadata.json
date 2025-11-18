@@ -1,16 +1,17 @@
 {
   "name": "ustd Token",
   "symbol": "ustd",
-  "description": "Atlas Token, Atlas ekosistemi için geliştirilen sabit arzlı bir SPL tokendir.",
-  "image": "https://raw.githubusercontent.com/hasanm3547/atlas-token/main/logo.png",
+  "description": "Atlas ekosistemi için geliştirilen sabit arzlı bir Solana SPL tokendir.",
+  "image": "https://raw.githubusercontent.com/hasanm3547/atlas-mainnet/main/logo.png",
   "attributes": [],
   "properties": {
     "category": "token",
     "creators": [
       {
-        "address": "EPJXuG9p1bmKLWXk86j399qt49Qr5HyTbsqReyqA2P3R",
+        "address": "21K6biFSfz4LiEWciRCAGLfH1s23aeqvhK9F3oB6bj8u",
         "share": 100
       }
     ]
   }
 }
+
